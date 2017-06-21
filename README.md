@@ -1,7 +1,10 @@
-# TrumpButton
+# Trump Button
 
 Make your own Donald Trump button to order your favorite drink thanks to @sigfox!
+
 https://www.youtube.com/watch?v=94eh6RCk3lA
+
+Full instructions are available on Hackster: https://www.hackster.io/aureleq/the-trump-button-5f6928
 
 ![Button5](pics/button5.jpg)
 
